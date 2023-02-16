@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Data Structures and Algorithms
 - 💞️ I’m looking to collaborate on projects made using MERN stack
 - 📫 You can reach me via my mail - amansinghal232@gmail.com
-- <!---
+ <!---
 - 🌐 Do checkout my LinkedIn profile if you want to know more about me - https://www.linkedin.com/in/singhalaman23/
 --->
 
